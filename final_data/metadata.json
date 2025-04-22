@@ -1,0 +1,43 @@
+{
+    "timestamp": "2025-04-23T01:33:34.908160",
+    "total_records": 9915,
+    "records_per_country": {
+        "usa": 3342,
+        "uk": 3180,
+        "india": 3393
+    },
+    "columns": {
+        "name": {
+            "dtype": "object",
+            "sample_value": "Justin Coleman"
+        },
+        "gender": {
+            "dtype": "object",
+            "sample_value": "Female"
+        },
+        "country": {
+            "dtype": "object",
+            "sample_value": "india"
+        },
+        "department": {
+            "dtype": "object",
+            "sample_value": "HR"
+        },
+        "designation": {
+            "dtype": "object",
+            "sample_value": "hr coordinator"
+        },
+        "email": {
+            "dtype": "object",
+            "sample_value": "murrayrachel@hotmail.com"
+        },
+        "signup_date": {
+            "dtype": "object",
+            "sample_value": "2023-12-08"
+        },
+        "address": {
+            "dtype": "object",
+            "sample_value": "unit 5232 box 7928, dpo ap 23572"
+        }
+    }
+}
