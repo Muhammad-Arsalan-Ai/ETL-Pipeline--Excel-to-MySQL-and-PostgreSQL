@@ -112,5 +112,3 @@ This will:
 - MySQL
 - PostgreSQL
 - JSON
-```
-
